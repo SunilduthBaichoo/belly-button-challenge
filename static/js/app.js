@@ -126,7 +126,7 @@ function buildCharts(sample) {
     const layout2 = {
       title: `Top 10 Bacteria Cultures Found`,
       xaxis: { title: "Number of Bacteria" },
-      yaxis: { title: "OTU IDs" }
+      //yaxis: { title: "OTU IDs" }
     };
 
     // Render the Bar Chart
